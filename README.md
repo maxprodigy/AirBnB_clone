@@ -77,5 +77,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Abdourahmane Issaka Sani** <[AbdourahmaneIssakaSani](https://github.com/AbdourahmaneIssakaSani)> <a.sani@alustudent.com>
-* **Peggy Vanessa A. Otieno** <[vassa33](https://github.com/vassa33)> <p.otieno@alustudent.com> 
+* **Peter Philip Johnson** <[Peter:](https://github.com/maxprodigy)> <p.johnson@alustudent.com>
+* **Noah K** <[vassa33](https://github.com/maxprodigy) 
